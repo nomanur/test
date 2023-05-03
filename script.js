@@ -1,2 +1,1 @@
-dnai
-code 
+document.querySelector('h2')
